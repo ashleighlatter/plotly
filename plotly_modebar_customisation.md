@@ -1,4 +1,4 @@
-The table below contains information about the modebar buttons you can add or remove in Plotly. This data is sourced from the [Plotly buttons code](https://github.com/plotly/plotly.js/blob/master/src/components/modebar/buttons.js).
+The table below contains information about the modebar buttons you can add or remove in Plotly. Code examples for adding and removing buttons are available [here](https://github.com/ashleighlatter/plotly/blob/main/plotly_modebar_customisation.R). This data is sourced from the [Plotly buttons code](https://github.com/plotly/plotly.js/blob/master/src/components/modebar/buttons.js). 
 
 - `Button ID` is the id you need to use when adding or removing a button
 - `Name` is what appears when you hover over the button in the modebar
